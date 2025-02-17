@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c693c2b-e514-460c-8039-67b7508f845b)# my_portfolio
+# my_portfolio
 
 # 🌍 Panduan Lengkap: Menghubungkan GitHub ke Git di WSL + Instalasi Zsh 🎯
 
