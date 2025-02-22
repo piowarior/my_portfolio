@@ -1,5 +1,9 @@
 # my_portfolio
 
+```masih dalam pengembangan ```
+```sama masih cari bakat```
+```ilmu saya masih kurang```
+
 # 🌍 Panduan Lengkap: Menghubungkan GitHub ke Git di WSL + Instalasi Zsh 🎯
 
 ## 📌 Pendahuluan
@@ -214,8 +218,7 @@ Sekarang kamu siap menggunakan GitHub dengan WSL secara profesional! 🚀🔥
 
 ---
 
-```masih dalam pengembangan ```
-```sama masih cari bakat```
+
 
 ### 🎮
 <p align="center">
